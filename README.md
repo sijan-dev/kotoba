@@ -3,6 +3,8 @@
 A small Bash script that fetches a random anime quote, translates it into
 Japanese with character and anime title.
 
+![Kotoba preview](assets/image.png)
+
 ## Requirements
 
 - Bash
